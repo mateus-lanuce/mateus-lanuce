@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hey there! I'm Mateus** &nbsp;
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> **Hey there! I'm Mateus** &nbsp;
 
 ### 👨🏻‍💻 &nbsp;About Me
 
