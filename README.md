@@ -31,15 +31,18 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
+<div align="center">
+<a href="https://github.com/mateus-lanuce">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mateus-lanuce&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mateus-lanuce&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
-</p>
+</div>
 
+<div align="center">
+  
 ![Snake animation](https://github.com/mateus-lanuce/mateus-lanuce/blob/output/github-contribution-grid-snake.svg)
 
+ </div>
 <br>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
