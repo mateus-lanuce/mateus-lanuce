@@ -38,6 +38,8 @@
 </a>
 </p>
 
+![Snake animation](https://github.com/mateus-lanuce/mateus-lanuce/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
