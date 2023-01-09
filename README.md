@@ -40,7 +40,7 @@
 
 <div align="center">
   
-![Snake animation](https://github.com/mateus-lanuce/mateus-lanuce/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mateus-lanuce/mateus-lanuce/output/github-contribution-grid-snake-dark.svg)
 
  </div>
 <br>
